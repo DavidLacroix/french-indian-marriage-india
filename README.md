@@ -52,18 +52,19 @@ The consulate will not accept the indian birth certificate as it is. It has to b
 **[Official reference for the apostille](http://mea.gov.in/apostille.htm)**
 #### Notarize the document
 Any lawyer office can athentify and apply a stamp on a document. It is fast and easy. It shouldn't be pricy.
+
 #### Attestation/Authentication
 Once notarized, the document can be certified by the court. You can find the list of offices that offer authentication in the link above. As usual you will need (at least...):
 * ID proof photocopies (visa copy if applies)
 * Notarized original copy of the birth certificate
 * 2 photocopies of the birth certificate
+
 #### Apostille
 You wil have to find the closest Ministry of External Affairs office. You will need (at least):
 * ID proof photocopies (visa copy if applies)
 * Authenticated notarized original copy of the birth certificate
 * 2-3 photocopies of the birth certificate
 * a 50/- INR  postal order (check)
-
 
 Some companies offer to apostille your document for a cost [VFS attestation](http://www.vfsattestation.com/). It seems everything had to be done through the office in Delhi. In the end it seemed easier and much cheaper to do every thing myself (I don't regret that now, the whole procedure is time consuming though).
 
