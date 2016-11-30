@@ -24,14 +24,16 @@ Those documents will be necessary at different stages of the procedure. It is be
   * **or** affidavit mentioning the filiation (avoid that unless last resort)
 
 ## Overall procedure
-* Initiate the marriage on the Indian government side. They will publish the bans, that is publicly announce your will to get married.
-* Contact the consulate you depend on with a proof that the marriage has been initiated by the indian government.
-* The consulate will publish the bans as per their own legislation. They will deliver you a non objection certificate once the bans period is over.
-* Once the bans period in the Indian office is completed, your are eligible to register your marriage in the Indian office.
-* Once in possession of the indian marriage certificate, forward it to your consulate for the marriage to be transcripted. It will then be valid in the foreign administration.
+* Declare your will to get married in the Indian government office.
+* Declare your will to get married in the Consulate with proof that it was already initiated in the Indian office
+* Once both clearance period (bans) are completed, get married in the Indian office
+* Send your marriage certificate to the Consulate for the marriage to be effective in the other administration
+
+Indian bans period: roughly ***1 month**
+French bans period: **7 days** to **1 month**
 
 ## Local registrar office - notice of intended marriage
-The place you will start the procedure is the local registrar office (sub registrar office). The local registrar office will accept procedures only if you live within its vicinity. You can choose whichever depending on what address proof you have. You can search online for the closest subregistrar and confirm with them if your address is under their jurisdiction.
+The place you will start the procedure is the local registrar office (sub registrar office). The local registrar office will accept procedures only if you live within its vicinity. Choose whichever depending on what address proof you have. Search online for the closest subregistrar and confirm with them if your address is under their jurisdiction.
 The sub registrar office will help you to declare your intention of getting married. The document you will have to submit:
 
 ** Ultimately the following might change from office to office, state to state. the registrar office will guide you and provide you the necessary forms.**
@@ -44,7 +46,7 @@ The sub registrar office will help you to declare your intention of getting marr
 Don't forget to get a receipt for your application. You will need it when coming back later on and it will help you to initiate the procedure with the consulate.
 
 ## Consulate - non objection certificate
-I cannot speak for other consulate but the french consulate of Pondicherry was clear and effective. You can contact them by mail (or phone) through the *service de l'etat civil*. Here is the document they publish to assist the production of a non objection certificate: [demande de certificat de capacite a mariage](demande_certificat_capacite_marriage.doc). You will have to schedule an appointment to submit your completed folder. You might be asked for a separate interview, both member of the couple must go together to the appointment. All the procedure with the consulate will be simplified (including the bans period) if you are registered (registre des francais etablis a l'etranger).
+I cannot speak for other consulate but the french consulate of Pondicherry was transparent and effective. You can contact them by mail (or phone) through the *service de l'etat civil*. Here is the document they publish to assist the production of a non objection certificate: [demande de certificat de capacite a mariage](demande_certificat_capacite_marriage.doc). You will have to schedule an appointment to submit your completed folder. You might be asked for a separate interview, both member of the couple must go together to the appointment. All the procedure with the consulate will be simplified (including the bans period) if you are registered (registre des francais etablis a l'etranger).
 ### About the documents to submit
 Any document that is not written in French has to be translated. It can be done by yourself on paper with a pen. There is no need to go through an expensive translator. 
 The consulate will not accept the Indian birth certificate as it is. It has to be stamped with an Apostille before being eligible. To be apostilled a document must be authenticated, to be authenticated a document must be reviewed by a lawyer (or any personnel with sufficient law credientials).
@@ -54,7 +56,7 @@ The consulate will not accept the Indian birth certificate as it is. It has to b
 Any lawyer office can verify and apply a stamp on a document. It is fast and easy. It shouldn't be pricy.
 
 #### Attestation/Authentication
-Once notarized, the document can be certified by the court. You can find the list of offices that offer authentication in the link above. As usual you will need (at least...):
+Once notarized, the document can be certified by the court. Find the list of offices that offer authentication in the link above. As usual you will need (at least...):
 * ID proof photocopies (visa copy if applies)
 * Notarized original copy of the birth certificate
 * 2 photocopies of the birth certificate
@@ -71,7 +73,7 @@ You will have to find the closest Ministry of External Affairs office. You will 
 Some companies offer to apostille your document for a cost [VFS attestation](http://www.vfsattestation.com/). It seems everything had to be done through the office in Delhi. In the end it seemed easier and much cheaper to do every thing myself (I don't regret that now, the whole procedure is time consuming though).
 
 ## Local registrar office - civil marriage
-Once the period (around 1 month) of Indian bans is completed and you are in possession of your non objection certificate, you can simply go to the sub registrar office, the special marriage will be celebrated (it'll take 1-2 hours). Here is the document and forms that were required from us:
+Once the period (around 1 month) of Indian bans is completed and you are in possession of your non objection certificate, simply go to the sub registrar office, the special marriage will be celebrated (it'll take 1-2 hours). Here is the document and forms that were required from us:
 * [form1](form1.jpg)
 * [form2](form2.jpg)
 * [form3](form3.jpg)
