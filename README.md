@@ -8,20 +8,20 @@ Those documents will be necessary at different stages of the procedure. It is be
 
 **Each side need those documents**
 * ID proof
-** passport
-** **or** voter id and aadhaar card
+  * passport
+  * **or** voter id and aadhaar card
 * Address proof
-** ration card at your name
-** **or**  rental agreement and any of one household bill (electricity, phone, gaz ...)
-** **or** letter from the landlord and id proof of the landlord (and address proof of the landlord)
+  * ration card at your name
+  * **or**  rental agreement and any of one household bill (electricity, phone, gaz ...)
+  * **or** letter from the landlord and id proof of the landlord (and address proof of the landlord)
 * ID photos
-** a bunch of recent passport size photography
+  * a bunch of recent passport size photography
 * Birth certificate
-** recent (less than 3 months old) official birth certificate copy (the copy is delivered by your government)
+  * recent (less than 3 months old) official birth certificate copy (the copy is delivered by your government)
 * Filiation
-** marriage certificate of the parents
-** **or** family official document (ration card/livret de famille)
-** **or** affidavit mentioning the filiation (avoid that unless last resort)
+  * marriage certificate of the parents
+  * **or** family official document (ration card/livret de famille)
+  * **or** affidavit mentioning the filiation (avoid that unless last resort)
 
 ## Overall procedure
 * Initiate the marriage on the Indian government side. They will publish the bans, that is publicly announce your will to get married.
