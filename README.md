@@ -29,7 +29,8 @@ Those documents will be necessary at different stages of the procedure. It is be
 * Once both clearance period (bans) are completed, get married in the Indian office
 * Send your marriage certificate to the Consulate for the marriage to be effective in the other administration
 
-Indian bans period: roughly ***1 month**
+Indian bans period: roughly **1 month**
+
 French bans period: **7 days** to **1 month**
 
 ## Local registrar office - notice of intended marriage
