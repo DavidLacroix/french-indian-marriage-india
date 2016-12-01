@@ -1,21 +1,21 @@
 # Guide to register a a marriage between a French and Indian citizen in India
 
 ## First things first
-This guide is meant to be of some help for couples that wish to marry in India. It is specially aimed at French/India couples though the procedure should be pretty similar for any other other nationality wishing to marry an Indian in India. It is done without pretension and cannot be considered as authority on the matter, this is the procedure we followed, it might contains inaccuracies. The guide is written from an experience in registering a special marriage in Chennai, Tamil Nadu, India around December 2015. Law, regulations and procedures will change over time, for this guide to be of any help prior to 2016, **please correct and improve it**. It can be quickly and easily done by creating a github account and editing the readme.md file.
+This guide is meant to be of some help for couples that wish to marry in India. It is specially aimed at French/Indian couples although the procedure should be pretty similar for any other other nationality wishing to marry an Indian in India.It cannot be considered an authority on the matter but this is the procedure we followed and can contain inaccuracies. The guide is written from an experience in registering a special marriage in Chennai, Tamil Nadu, India around December 2015. Law, regulations and procedures will change over time, for this guide to be of any help prior to 2016, **please correct and improve it**. It can be quickly and easily done by creating a github account and editing the readme.md file.
 
-## Overall of the key documents you will need throughout
-Those documents will be necessary at different stages of the procedure. It is best to get them in advance as some of them might require some time to get. Keep multiples photocopies of those documents with you through the many office you will visit, it will save you some time running back and forth.
+## Overall key documents required throughout
+These documents will be necessary at different stages of the procedure. It is best to get them in advance as some of them might require some time to get. Keep multiples photocopies of those documents with you through the many office you will visit, it will save you some time running back and forth.
 
 **Each side need those documents**
 * ID proof
   * passport
   * **or** voter id and aadhaar card
 * Address proof
-  * ration card at your name
-  * **or**  rental agreement and any of one household bill (electricity, phone, gaz ...)
+  * ration card with your name on it
+  * **or**  rental agreement and any household bill (electricity, phone, gas ...)
   * **or** letter from the landlord and id proof of the landlord (and address proof of the landlord)
 * ID photos
-  * a bunch of recent passport size photography
+  * a bunch of recent passport size photos
 * Birth certificate
   * recent (less than 3 months old) official birth certificate copy (the copy is delivered by your government)
 * Filiation
@@ -47,14 +47,14 @@ The sub registrar office will help you to declare your intention of getting marr
 Don't forget to get a receipt for your application. You will need it when coming back later on and it will help you to initiate the procedure with the consulate.
 
 ## Consulate - non objection certificate
-I cannot speak for other consulate but the french consulate of Pondicherry was transparent and effective. You can contact them by mail (or phone) through the *service de l'etat civil*. Here is the document they publish to assist the production of a non objection certificate: [demande de certificat de capacite a mariage](demande_certificat_capacite_marriage.doc). You will have to schedule an appointment to submit your completed folder. You might be asked for a separate interview, both member of the couple must go together to the appointment. All the procedure with the consulate will be simplified (including the bans period) if you are registered (registre des francais etablis a l'etranger).
+I cannot speak for other consulates but the french consulate of Pondicherry was transparent and effective. You can contact them by mail (or phone) through the *service de l'etat civil*. Here is the document they publish to assist the production of a non objection certificate: [demande de certificat de capacite a mariage](demande_certificat_capacite_marriage.doc). You will have to schedule an appointment to submit your completed folder. You might be asked for a separate interview, both member of the couple must go together to the appointment. All the procedure with the consulate will be simplified (including the bans period) if you are registered (registre des francais etablis a l'etranger).
 ### About the documents to submit
-Any document that is not written in French has to be translated. It can be done by yourself on paper with a pen. There is no need to go through an expensive translator. 
-The consulate will not accept the Indian birth certificate as it is. It has to be stamped with an Apostille before being eligible. To be apostilled a document must be authenticated, to be authenticated a document must be reviewed by a lawyer (or any personnel with sufficient law credientials).
+Any document that is not written in French has to be translated. It can be done with a paper and pen by yourself, signed and dated by you. There is no need to go through an expensive translator. 
+The consulate will not accept the Indian birth certificate as it is. It has to be stamped with an Apostille before being eligible. To be apostilled a document must be authenticated, to be authenticated a document must be reviewed and stamped by a notary.
 
 **[Official reference for the apostille](http://mea.gov.in/apostille.htm)**
 #### Notarize the document
-Any lawyer office can verify and apply a stamp on a document. It is fast and easy. It shouldn't be pricy.
+Any registered lawyer/notary can verify and apply a stamp on a document. It is fast and easy. It shouldn't be pricy.
 
 #### Attestation/Authentication
 Once notarized, the document can be certified by the court. Find the list of offices that offer authentication in the link above. As usual you will need (at least...):
@@ -69,12 +69,12 @@ You will have to find the closest Ministry of External Affairs office. You will 
 * ID proof photocopies (visa copy if applies)
 * Authenticated notarized original copy of the birth certificate
 * 2-3 photocopies of the birth certificate
-* a 50/- INR  postal order (check)
+* a 50/- INR  postal order (cheque)
 
-Some companies offer to apostille your document for a cost [VFS attestation](http://www.vfsattestation.com/). It seems everything had to be done through the office in Delhi. In the end it seemed easier and much cheaper to do every thing myself (I don't regret that now, the whole procedure is time consuming though).
+Some companies offer to apostille your document for a cost [VFS attestation](http://www.vfsattestation.com/). It seems everything had to be done through the office in Delhi. In the end it seemed easier and much cheaper to do every thing myself (I don't regret that although the whole procedure is time consuming).
 
 ## Local registrar office - civil marriage
-Once the period (around 1 month) of Indian bans is completed and you are in possession of your non objection certificate, simply go to the sub registrar office, the special marriage will be celebrated (it'll take 1-2 hours). Here is the document and forms that were required from us:
+Once the period (around 1 month) of Indian bans is completed and you are in possession of your non objection certificate, simply go to the sub registrar office, and sign under special marriage act with three witnesses present along with original and photocopy of witness ID proof(it'll take 1-2 hours). Here is the document and forms that were required from us:
 * [form1](form1.jpg)
 * [form2](form2.jpg)
 * [form3](form3.jpg)
