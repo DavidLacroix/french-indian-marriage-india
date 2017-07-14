@@ -49,7 +49,7 @@ Don't forget to get a receipt for your application. You will need it when coming
 ## Consulate - non objection certificate
 I cannot speak for other consulates but the french consulate of Pondicherry was transparent and effective. You can contact them by mail (or phone) through the *service de l'etat civil*. Here is the document they publish to assist the production of a non objection certificate: [demande de certificat de capacite a mariage](demande_certificat_capacite_marriage.doc). You will have to schedule an appointment to submit your completed folder. You might be asked for a separate interview, both member of the couple must go together to the appointment. All the procedure with the consulate will be simplified (including the bans period) if you are registered (registre des francais etablis a l'etranger).
 ### About the documents to submit
-Any document that is not written in French has to be translated. It can be done with a paper and pen by yourself, signed and dated by you. There is no need to go through an expensive translator. 
+Any document that is not written in French has to be translated. It can be done with a paper and pen by yourself, signed and dated by you. There is no need to go through an expensive translator. **(update :the consulate might require that the documents be translated by an official translator as of 2017).  **
 The consulate will not accept the Indian birth certificate as it is. It has to be stamped with an Apostille before being eligible. To be apostilled a document must be authenticated, to be authenticated a document must be reviewed and stamped by a notary.
 
 **[Official reference for the apostille](http://mea.gov.in/apostille.htm)**
